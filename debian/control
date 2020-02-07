@@ -2,7 +2,7 @@ Source: design-pattern
 Section: utils
 Priority: optional
 Maintainer: Aliben <aliben.develop@gmail.com>
-Build-Depends: debhelper (>= 10)
+Build-Depends: cmake, build-essential, debhelper (>= 10)
 Standards-Version: 4.1.2
 Homepage: https://github.com
 Vcs-Git: https://github.com/alibenD/design_pattern
